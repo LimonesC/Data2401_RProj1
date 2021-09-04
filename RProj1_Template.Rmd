@@ -18,11 +18,13 @@ library(datasauRus)
 ### Exercise 1
 
 - datasaurus_dozen has 1846 rows and 12 datasets
-- x & y values
+- data set, x-values, and y-values
 
 (Type your answer to Exercise 1 here. This exercise does not require any R code. **Remove notes like this in the final product that you turn in**)
 
 ### Exercise 2
+
+
 
 (The answers for this Exercise are given for you below. But you should clean up some of the narrative so that it only includes what you want to turn in.)
 
